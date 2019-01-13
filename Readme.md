@@ -1,4 +1,4 @@
-#N11 Selenium test otomasyon projesidir. N11 ürün arama, seçme, favorilere ekleyip çıkarma işlemleridir.
+# N11 Selenium test otomasyon projesidir. N11 ürün arama, seçme, favorilere ekleyip çıkarma işlemleridir.
 
 * http://www.n11.com sitesine gelecek ve anasayfanin acildigini onaylayacak
 * Login ekranini acip, bir kullanici ile login olacak ( daha once siteye uyeliginiz varsa o olabilir )
