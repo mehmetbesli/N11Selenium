@@ -1,6 +1,6 @@
 #N11 Selenium test otomasyon projesidir. N11 ürün arama, seçme, favorilere ekleyip çıkarma işlemleridir.
 
-* http://www.n11.com<http://www.n11.com/> sitesine gelecek ve anasayfanin acildigini onaylayacak
+* http://www.n11.com sitesine gelecek ve anasayfanin acildigini onaylayacak
 * Login ekranini acip, bir kullanici ile login olacak ( daha once siteye uyeliginiz varsa o olabilir )
 * Ekranin ustundeki Search alanina 'samsung' yazip Ara butonuna tiklayacak 
 * Gelen sayfada samsung icin sonuc bulundugunu onaylayacak 
